@@ -144,6 +144,13 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
+### Download source
+
+[saynum2.c](./src/saynum2.c)
+
+## Google Group Discussion
+
+[RC2014-z80](https://groups.google.com/g/rc2014-z80/c/bjtIXDsHMyU/m/D0oMkvoeAQAJ)
 
 ## Demo video
 
@@ -151,9 +158,12 @@ int main(int argc, char* argv[])
 
 ## Datasheet
 
-[datasheet](https://www.cpcwiki.eu/imgs/3/35/Sp0256al2_datasheet.pdf)  includes AL2 allophone list
+[datasheet](./documents/Sp0256al2_datasheet.pdf)
 
-## Useful website
+## Useful websites
+
+[Ready-Z80](https://github.com/bchiha/Ready-Z80)
+
 
 [CPCWiki](https://www.cpcwiki.eu/index.php/SP0256)
 
